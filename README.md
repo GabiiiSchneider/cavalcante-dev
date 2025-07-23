@@ -29,6 +29,6 @@
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cavalcante-dev&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://media1.tenor.com/m/K0_Toybd0QsAAAAd/disco-elysium-two-birds-on-a-wire.gif" align="center" /> <br>    
+<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRzZng4OWFqY2hkcm5lZGNlbXRwaWd3eGc5d2FyY2h5bDcwNXlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4XnFRMNyXZ8UOlovlp/giphy.gif" align="center" /> </br>
 </p>
 
